@@ -1,0 +1,130 @@
+,area,roads,ne_pre,ne_during,ne_post,sw_pre,sw_during,sw_post,lng,lat
+0,arterials,Federal Hwy and Stirling Ave,5930,3870,7510,6230,3880,7010,149.1535912,-35.2317057
+1,arterials,Federal Hwy and Barton Hwy,12780,9330,15457,17650,9280,22370,149.1225791,-35.2262345
+2,arterials,Northbourne Ave and London Cct,14950,7330,15960,10430,5000,12340,,
+3,arterials,Gundaroo Dr and ped crossing,14260,8960,15130,15430,10040,16700,,
+4,arterials,Gundaroo Dr and Horse Park Dr,9360,6150,10100,8850,5650,9270,,
+5,arterials,Barton Hwy and Kuringa Dr,11730,6580,12420,10860,5830,11120,149.0628571,-35.1915919
+6,arterials,Horse Park Dr and Gundaroo Dr,15440,10340,16910,13492,9180,15190,,
+7,arterials,Horse Park Dr and Well Station Dr,14720,10970,17420,12450,10570,17090,,
+8,arterials,Horse Park Dr and Gundaroo Dr,12590,8290,13600,11670,7990,13220,,
+9,arterials,Flemington Rd and Well Station Dr,6010,4920,8490,7580,4580,7650,149.14735,-35.20905
+10,arterials,John Gorton Dr and Holborow Ave,3620,3090,5850,3380,2680,4100,149.0342253,-35.2996283
+11,arterials,Barton Hwy and Randwick Rd,9850,5030,9940,10640,5550,10730,149.1435384,-35.2278877
+12,arterials,Monaro Hwy and Lanyon Dr ,26380,17180,26710,29870,20010,30570,148.30843027993257,-36.5018044
+13,arterials,Majura Pkwy and Federal Hwy ,18560,13620,22170,16220,11360,20940,149.190395,-35.2150819
+14,arterials,Gungalin Dr and Gundaroo Dr,18040,10590,17850,19290,11980,20250,,
+15,arterials,Monaro Hwy and Federal Hwy (Set 269),18560,13620,22170,16220,11360,20940,,
+16,arterials,Monaro Hwy and Lanyon Dr (Set 131 & ),26380,17180,26710,29870,20010,30570,,
+17,arterials,Cotter Rd and Lady Denman Dr (Set 236),15170,7640,13830,23170,11640,23540,,
+18,arterials,Cotter Rd and Streeton Dr (Set 44),18860,11410,20910,18470,11290,20400,,
+19,arterials,Kuringa Dr and Barton Hwy,9240,5740,8760,12150,7290,11180,149.0628571,-35.1915919
+20,arterials,Kingsford Smith Dr and Southern Cross Dr,10560,6540,10640,12380,7570,11790,150.7033381,-33.5835972
+21,arterials,William Hovell Dr and Bindubi St,22510,13450,22810,25730,14860,25390,,
+22,arterials,Morshead Dr and Monaro Hwy NB Off-ramp,29790,14750,20190,25650,12190,23280,,
+23,arterials,Canberra Ave and Tori Price St,22030,14560,21200,22510,14590,20640,,
+24,arterials,Canberra Ave and Nyarang St (Set 108),15740,9110,15610,21210,13200,20770,,
+25,arterials,Hindmarsh Dr and Eggleston Cr (Set307),34660,20940,31770,22790,13540,21320,,
+26,arterials,Hindmarsh Dr and Mugga Ln (Set78),19160,12770,0,15050,9150,0,,
+27,arterials,Drakeford Dr and Sulwood Dr (Set64),19990,10730,19340,18910,10170,17970,,
+28,arterials,Belconnen Way and GDE (Set35),29590,15370,31280,29100,13890,28460,,
+29,arterials,Barry Dr and Cluniess Ross St (Set58),15300,5850,14140,15390,6420,14440,,
+30,arterials,Ginninderra Dr and Copland Dr,9600,5900,9240,11680,6660,11300,149.0539506,-35.2187599
+31,arterials,Ginninderra Dr and Aikman Dr,18800,10140,17930,17720,9860,17270,,
+32,arterials,Ginninderra Dr and Gungahlin Dr SB ramps,12970,6340,12400,14590,7840,14840,,
+33,Civic,Northbourne Ave and Elouera St,14030,7990,14620,13460,6790,14740,149.1301599,-35.2726172
+34,Civic,Constitution Ave and London Circ,1570,690,2050,2520,1240,2240,,
+35,Civic,Barry Dr and Northbourne Ave,15390,6420,14440,15300,5850,14140,,
+36,Civic,Barry Dr and McCaughey St,16890,6680,14690,16730,6450,13760,149.1231864,-35.2701416
+37,Civic,McCaughey St and Barry Dr,2940,720,2950,4220,1590,3770,149.1231864,-35.2701416
+38,Civic,Clunies Ross St and Barry Dr,3890,1960,4400,5080,1700,4720,149.1165082,-35.2732397
+39,Civic,Clunies Ross St and Dickson Rd,6330,1960,5460,6430,2100,5720,149.11252220757055,-35.27886015
+40,Civic,Dickson St and Clunies Ross St,2790,600,2000,3120,710,2010,,
+41,Civic,Marcus Clarke St and Rudd St,6960,2750,5600,6740,2880,5610,149.1269999825624,-35.27643595
+42,Civic,Alinga St and Marcus Clarke St,2850,1710,2580,1620,1370,2170,,
+43,Civic,Marcus Clarke St and University Ave,6000,1770,4340,4800,1260,3700,,
+44,Civic,University Ave and Marcus Clarke St,2430,770,1910,2770,950,1940,,
+45,Civic,Edinburgh Ave and Phillip Law St,9190,1600,7460,10850,3010,8420,,
+46,Civic,London Circ and Gordon St,0,0,0,2730,960,2380,,
+47,Civic,London Circ and Northbourne Ave,5960,2370,5600,3070,1140,2940,,
+48,Civic,London Circ and Petrie Plaza ped-crossing,3390,1750,3360,5800,2490,5680,,
+49,Civic,London Circ and Constitution Ave,4670,1500,3410,5970,2660,5290,,
+50,Civic,Vernon Circ and Constitution Ave,0,0,0,16110,6920,15790,,
+51,Civic,Constitution Ave and National Convention Centre,5580,2120,5040,4590,1600,4230,149.1345308289186,-35.284728
+52,Civic,Coranderrk St and Constitution Ave,15640,6150,15330,10590,4130,9950,,
+53,Civic,Constitution Ave and CIT Reid ped-crossing,2870,950,2280,3060,1020,2440,,
+54,Civic,Allara St and Casino ped-crossing,2290,830,2120,2160,830,2100,,
+55,Civic,Cooyong St and Akuna St,13130,5210,12630,12610,5070,7290,,
+56,Civic,Cooyong St and Scotts Crossing,13880,5820,13750,11890,5060,11010,,
+57,Civic,Genge St & Lonsdale St and Cooyong St,3020,1400,2680,3450,1520,3740,,
+58,Civic,Commonwealth Avenue and Albert Street,30810,12020,28170,31890,12660,29720,,
+59,Civic,Commonwealth Ave and Albert St ped-crossing,30810,12020,28170,31890,12660,29720,,
+93,Woden,Callam St and Bowes St,5780,2920,5870,5540,2760,5480,,
+94,Woden,Bradley St and Callam St,660,590,720,1560,1100,1410,,
+95,Woden,Corinna St and Callam St,4430,1960,6750,2910,2070,5460,,
+96,Woden,Athlon Dr  and Shea St,8410,5080,8510,7780,4370,7970,,
+97,Woden,Shea St and Athlon Dr,880,570,860,690,420,860,,
+98,Woden,Yamba Dr and Launceston St,14430,7500,14170,12790,6770,12400,149.0903477,-35.3403298
+99,Woden,Melrose Dr and Worgan St,11230,5680,10320,11200,4740,8560,130.8462595,-12.4293189
+100,Woden,Worgan St and Melrose Dr,1660,920,1700,1130,700,1440,130.8462595,-12.4293189
+101,Woden,Corinna St and Melrose Dr,2240,1470,1940,1180,790,780,115.6654098,-32.5739954
+102,Woden,Botany St and Melrose Dr,4240,2400,3900,5290,3100,5010,153.0525418,-27.4248105
+103,Woden,Melrose Dr and Botany St,8180,4760,7680,14530,8430,13920,149.0857679,-35.3527755
+104,Woden,Hindmarsh Dr and Callam St,20770,10070,20520,18140,11170,18200,,
+105,Woden,Melrose Dr and Corinna St,12150,6090,11000,11390,6130,10610,115.6654098,-32.5739954
+106,Woden,Hindmarsh Dr and Eggleston Cr,34660,20940,31770,22790,13540,21320,,
+167,Belconnen,College St and Benjamin Way,4910,3370,5160,3580,2570,4230,149.0673225,-35.2385512
+168,Belconnen,Lathlain St and Belconnen Way,7810,4390,7050,8390,5670,9070,149.0638824,-35.2463488
+169,Belconnen,Nettleford St and Cohen St,6420,5310,7040,6810,5580,7300,,
+170,Belconnen,Cohen St and Nettleford St,3660,3240,3790,2920,2830,3220,,
+171,Belconnen,Luxton St  and Lathlain St,7600,4450,7480,8330,5220,8060,,
+172,Belconnen,Lathlain St and Luxton St,4370,3700,4480,2790,2310,3390,,
+173,Belconnen,Belconnen Way and Benjamin Way,14090,7830,13800,15570,8350,15370,149.0673225,-35.2385512
+174,Belconnen,Benjamin Way and Belconnen Way,4810,2560,4740,5540,3160,5420,149.0673225,-35.2385512
+175,Belconnen,Bindubi St and Belconnen Way,10610,5770,10310,8820,4820,8450,149.0736655,-35.2615958
+176,Belconnen,Eastern Valley Way and Emu Bank,3630,1680,2870,4480,2640,4340,149.0734739,-35.2405908
+177,Belconnen,Emu Bank and Eastern Valley Way,8630,4840,7580,7480,3820,6780,,
+178,Belconnen,Aikman Dr and Emu Bank,8940,5100,8800,9690,5330,9270,,
+179,Belconnen,Emu Bank and Benjamin Way,9100,2760,8030,8640,2300,7040,149.0682845,-35.2363037
+180,Belconnen,Benjamin Way and Emu Bank,5600,2720,5050,4730,2300,4510,149.0682845,-35.2363037
+181,Belconnen,Benjamin Way and Cohen St,6530,4590,5910,5930,4320,5470,,
+182,Belconnen,Cohen St and Benjamin Way,3390,3560,3270,3280,3260,3120,,
+183,Belconnen,Belconnen Way and Lathlain St,14700,7900,13440,14270,8490,13550,149.0638824,-35.2463488
+258,Gungahlin,Gundaroo Dr Ped Xing,14260,8960,15130,15430,10040,16700,,
+259,Gungahlin,Anthony Rolfe Ave and Gundaroo Dr,6340,4400,6240,7590,5870,8930,149.1294045,-35.1826508
+260,Gungahlin,Mirrabei Dr and Gundaroo Dr,10040,6690,10620,10140,6820,10600,149.1241122,-35.1775511
+261,Gungahlin,Kate Cres and Flemington Rd,3760,2670,4530,3200,2160,3660,,
+262,Gungahlin,Flemington Rd and Kate Cres,1710,1140,1950,2240,2030,3030,,
+263,Gungahlin,The Valley Ave and Kate Cres,3650,2570,4320,3070,1980,3680,153.059677,-26.81737
+264,Gungahlin,Flemington Rd and Sandford St,6010,4920,8490,7580,4580,7650,149.1426658,-35.221101
+265,Gungahlin,Horse Park D and Well Station Dr,14720,10970,17420,12450,10570,17090,,
+266,Gungahlin,Horse Park D and Anthony Rolfe Ave,12640,8950,14460,12240,9270,15050,,
+267,Gungahlin,Horse Park D and Francis Frorde Blvd,12590,8290,13600,11670,7990,13220,,
+268,Gungahlin,Gozzard St and Anthony Rolfe Ave,4430,3540,4130,3960,3050,3790,,
+269,Gungahlin,Ernest Cavanagh St and Gozzard St,1680,1500,1910,3560,2910,3450,,
+270,Gungahlin,Hibberon St one-way,1360,1320,1470,0,0,0,,
+271,Gungahlin,Hibberon St two-way,2690,1710,2650,3860,1750,2770,,
+272,Gungahlin,Gungahlin Pl and Bus station,2430,2140,2630,1950,1740,2220,149.13504335433026,-35.1849897
+273,Gungahlin,The Valley Ave and Gungahlin Pl,5290,3120,5170,4960,2940,4970,149.1231783,-35.1878334
+274,Gungahlin,Hinder St and LR Crossing,3120,2300,3030,2750,2000,2610,,
+275,Gungahlin,The Valley Ave Xing and School,9660,5340,8700,8470,4710,7420,149.1231783,-35.1878334
+276,Gungahlin,Gundaroo Dr and Horse Park Dr,9360,6150,10100,8850,5650,9270,,
+277,Gungahlin,Gungahlin Dr and Gundaroo Dr,18040,10590,17850,19290,11980,20250,149.1406999,-35.1809603
+278,Gungahlin,Flemington Rd and Well Station Dr,7810,5010,8780,8590,4850,8490,149.14735,-35.20905
+279,Gungahlin,Well Station Dr and Flemington Rd,7080,3920,6860,7250,4160,6960,149.14735,-35.20905
+280,Gungahlin,Flemington Rd and Nullarbor Ave,6010,4920,8490,7580,4580,7650,149.1493346,-35.2003817
+372,Tuggeranong,Anketell St and Cowlishaw St,2600,2080,3330,3300,2020,3900,,
+373,Tuggeranong,Cowlishaw St and Anketll St,1300,950,1740,3320,1520,2210,,
+374,Tuggeranong,Soward Way and Anketell St,6330,4350,6030,7360,4930,7200,149.0706785,-35.4172586
+375,Tuggeranong,Anketell St and Oakden St,6340,4760,6730,6590,4800,7010,,
+376,Tuggeranong,Oakden St and Anketell St,1670,1340,1830,300,290,110,,
+377,Tuggeranong,Athllon Dr and Soward Way,4850,2660,4750,7320,4390,7210,149.0663538,-35.4194496
+378,Tuggeranong,Soward Way and Athllon Dr ,990,510,810,1480,770,1640,149.0663538,-35.4194496
+379,Tuggeranong,Anketell St and Reed St (north),5850,4240,5870,4120,2680,4110,,
+380,Tuggeranong,Reed St (north) and Anketell St,2640,2150,2720,2840,1320,1990,,
+381,Tuggeranong,Athllon Dr and Pitman St,7750,4120,7500,8010,4660,7690,149.064407,-35.418159
+382,Tuggeranong,Pitman St and Athllon Dr,420,150,430,3460,1890,3470,149.064407,-35.418159
+383,Tuggeranong,Athllon Dr and Learmonth DR & Anketell St,11160,6350,10820,11240,6530,11040,,
+384,Tuggeranong,Drakeford Dr and Ellison Harvie Cl,11890,7240,11340,11200,7000,10780,,
+385,Tuggeranong,Reed St (south) and Anketell St,2990,1900,2480,2900,1700,2280,,
+386,Tuggeranong,Drakeford Dr and Taverner St,16080,9640,15590,13100,8030,12840,149.0735848,-35.4080881
