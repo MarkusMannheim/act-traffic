@@ -177,10 +177,9 @@
           .style("top", "0px")
           .style("left", "0px")
           .html("<h1>" + d.properties.site + "</h1>"
-            + "<p>traffic: <span>" + (d.properties.dir == "NE" ? "north/east" : "south/west") + "-bound</span></p>"
-            + "<p>Apr 4 2019: <span>" + d3.format(",.0f")(d.properties.pre) + "</span></p>"
-            + "<p>Apr 15, 2021: <span>" + d3.format(",.0f")(d.properties.pos) + "</span></p>"
-            + "<p>change: <strong><span>" + (d.properties.change < 0 ? "" : "+") + d3.format(",.1%")(d.properties.change) + "</span></strong></p>"
+            + "<p>" + (d.properties.dir == "NE" ? "north/east" : "south/west") + "-bound traffic</p>"
+            + "<p>vehicles on Apr 15, 2021: <span>" + d3.format(",.0f")(d.properties.pos) + "</span></p>"
+            + "<p>change from 2 years earlier: <span>" + (d.properties.change < 0 ? "" : "+") + d3.format(",.1%")(d.properties.change) + "</span></p>"
           );
         let tipWidth = parseFloat(tip.style("width"));
         let tipHeight = parseFloat(tip.style("height"));
